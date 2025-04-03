@@ -10,3 +10,5 @@ async function main() {
 main()
   .catch((e) => console.error(e))
   .finally(() => void prisma.$disconnect());
+
+//ㅇㅇㄴㄹ
